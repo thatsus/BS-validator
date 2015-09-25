@@ -1,9 +1,9 @@
 {
-    "name": "thatsus/BS-validator",
+    "name": "thatsus/bs-validator",
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/thatsus/BS-validator.git"
+            "url": "https://github.com/thatsus/bs-validator.git"
         }
     ]
 }
